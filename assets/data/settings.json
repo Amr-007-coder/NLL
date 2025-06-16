@@ -1,1 +1,1 @@
-{"Buttons": {"show_info": false}, "Sounds": {"volume": {"effect": 0.605, "bg": 0.07166666666666667}}, "Graphics": {"waves_bg": true, "show_cutScenes": false}, "Console": {"active": false}}
+{"Buttons": {"show_info": true}, "Sounds": {"volume": {"effect": 1, "bg": 1}}, "Graphics": {"waves_bg": true, "show_cutScenes": true}, "Console": {"active": false}}
