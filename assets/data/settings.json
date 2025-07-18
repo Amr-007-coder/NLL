@@ -1,1 +1,1 @@
-{"Buttons": {"show_info": true}, "Sounds": {"volume": {"effect": 1, "bg": 1}}, "Graphics": {"simple_bg": false, "waves_bg": true, "show_cutScenes": true}, "External": {"Open": true, "Console": false}}
+{"Buttons": {"show_info": true}, "Sounds": {"volume": {"effect": 1, "bg": 1}}, "Graphics": {"bg_num": 0, "waves_bg": true, "show_cutScenes": true}, "External": {"Open": true, "Console": false}}
