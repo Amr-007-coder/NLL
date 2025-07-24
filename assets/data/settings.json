@@ -1,1 +1,1 @@
-{"Color": {"mouse": [255, 255, 255], "mask": [255, 255, 255, 128]}, "Buttons": {"show_info": true}, "Sounds": {"volume": {"effect": 1, "bg": 1}}, "Graphics": {"bg_num": 0, "waves_bg": true, "show_cutScenes": true}, "External": {"Open": true, "Console": false}}
+{"Color": {"mouse": [255, 255, 255], "mask": [255, 128, 128, 128]}, "Buttons": {"show_info": true}, "Sounds": {"volume": {"effect": 1, "bg": 1}}, "Graphics": {"bg_num": 0, "waves_bg": true, "show_cutScenes": true}, "External": {"Open": true, "Console": false}}
