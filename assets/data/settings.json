@@ -1,1 +1,1 @@
-{"Buttons": {"show_info": true}, "Sounds": {"volume": {"effect": 1, "bg": 1}}, "Graphics": {"bg_num": 0, "waves_bg": true, "show_cutScenes": true}, "External": {"Open": true, "Console": false}}
+{"Mouse": {"color": (255, 255, 255)}, "Buttons": {"show_info": true}, "Sounds": {"volume": {"effect": 1, "bg": 1}}, "Graphics": {"bg_num": 0, "waves_bg": true, "show_cutScenes": true}, "External": {"Open": true, "Console": false}}
